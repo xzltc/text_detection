@@ -1,0 +1,2413 @@
+{
+  "TextDetections": [
+    {
+      "DetectedText": "漓渚镇⑥",
+      "Confidence": 96,
+      "ItemPolygon": {
+        "X": 994,
+        "Y": 11,
+        "Width": 102,
+        "Height": 29
+      },
+      "Polygon": [
+        {
+          "X": 994,
+          "Y": 39
+        },
+        {
+          "X": 995,
+          "Y": 11
+        },
+        {
+          "X": 1095,
+          "Y": 12
+        },
+        {
+          "X": 1095,
+          "Y": 39
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":29}}"
+    },
+    {
+      "DetectedText": "大禹陵",
+      "Confidence": 75,
+      "ItemPolygon": {
+        "X": 1380,
+        "Y": 16,
+        "Width": 72,
+        "Height": 32
+      },
+      "Polygon": [
+        {
+          "X": 1380,
+          "Y": 18
+        },
+        {
+          "X": 1381,
+          "Y": 47
+        },
+        {
+          "X": 1451,
+          "Y": 45
+        },
+        {
+          "X": 1450,
+          "Y": 16
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":36}}"
+    },
+    {
+      "DetectedText": "河上镇@",
+      "Confidence": 96,
+      "ItemPolygon": {
+        "X": 284,
+        "Y": 39,
+        "Width": 101,
+        "Height": 29
+      },
+      "Polygon": [
+        {
+          "X": 284,
+          "Y": 65
+        },
+        {
+          "X": 285,
+          "Y": 39
+        },
+        {
+          "X": 384,
+          "Y": 41
+        },
+        {
+          "X": 383,
+          "Y": 67
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":1}}"
+    },
+    {
+      "DetectedText": "、香炉峰",
+      "Confidence": 71,
+      "ItemPolygon": {
+        "X": 1345,
+        "Y": 47,
+        "Width": 68,
+        "Height": 37
+      },
+      "Polygon": [
+        {
+          "X": 1345,
+          "Y": 54
+        },
+        {
+          "X": 1348,
+          "Y": 83
+        },
+        {
+          "X": 1412,
+          "Y": 76
+        },
+        {
+          "X": 1408,
+          "Y": 47
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":37}}"
+    },
+    {
+      "DetectedText": "店口镇",
+      "Confidence": 85,
+      "ItemPolygon": {
+        "X": 736,
+        "Y": 100,
+        "Width": 79,
+        "Height": 32
+      },
+      "Polygon": [
+        {
+          "X": 736,
+          "Y": 130
+        },
+        {
+          "X": 736,
+          "Y": 100
+        },
+        {
+          "X": 814,
+          "Y": 100
+        },
+        {
+          "X": 814,
+          "Y": 131
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":10}}"
+    },
+    {
+      "DetectedText": "鉴湖街道",
+      "Confidence": 99,
+      "ItemPolygon": {
+        "X": 1321,
+        "Y": 82,
+        "Width": 109,
+        "Height": 37
+      },
+      "Polygon": [
+        {
+          "X": 1321,
+          "Y": 113
+        },
+        {
+          "X": 1322,
+          "Y": 82
+        },
+        {
+          "X": 1429,
+          "Y": 87
+        },
+        {
+          "X": 1428,
+          "Y": 118
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":37}}"
+    },
+    {
+      "DetectedText": "楼塔镇@",
+      "Confidence": 87,
+      "ItemPolygon": {
+        "X": 220,
+        "Y": 132,
+        "Width": 95,
+        "Height": 28
+      },
+      "Polygon": [
+        {
+          "X": 220,
+          "Y": 158
+        },
+        {
+          "X": 220,
+          "Y": 132
+        },
+        {
+          "X": 314,
+          "Y": 133
+        },
+        {
+          "X": 314,
+          "Y": 159
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":3}}"
+    },
+    {
+      "DetectedText": "森林",
+      "Confidence": 99,
+      "ItemPolygon": {
+        "X": 1087,
+        "Y": 141,
+        "Width": 40,
+        "Height": 19
+      },
+      "Polygon": [
+        {
+          "X": 1087,
+          "Y": 142
+        },
+        {
+          "X": 1088,
+          "Y": 159
+        },
+        {
+          "X": 1126,
+          "Y": 158
+        },
+        {
+          "X": 1126,
+          "Y": 141
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":30}}"
+    },
+    {
+      "DetectedText": "亮国家",
+      "Confidence": 80,
+      "ItemPolygon": {
+        "X": 1106,
+        "Y": 118,
+        "Width": 64,
+        "Height": 30
+      },
+      "Polygon": [
+        {
+          "X": 1106,
+          "Y": 145
+        },
+        {
+          "X": 1107,
+          "Y": 118
+        },
+        {
+          "X": 1169,
+          "Y": 120
+        },
+        {
+          "X": 1168,
+          "Y": 147
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":30}}"
+    },
+    {
+      "DetectedText": ":官乡",
+      "Confidence": 94,
+      "ItemPolygon": {
+        "X": 4,
+        "Y": 178,
+        "Width": 52,
+        "Height": 36
+      },
+      "Polygon": [
+        {
+          "X": 4,
+          "Y": 185
+        },
+        {
+          "X": 8,
+          "Y": 213
+        },
+        {
+          "X": 55,
+          "Y": 206
+        },
+        {
+          "X": 51,
+          "Y": 178
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":2}}"
+    },
+    {
+      "DetectedText": "湖",
+      "Confidence": 96,
+      "ItemPolygon": {
+        "X": 858,
+        "Y": 185,
+        "Width": 20,
+        "Height": 19
+      },
+      "Polygon": [
+        {
+          "X": 858,
+          "Y": 185
+        },
+        {
+          "X": 858,
+          "Y": 203
+        },
+        {
+          "X": 877,
+          "Y": 203
+        },
+        {
+          "X": 877,
+          "Y": 185
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":11}}"
+    },
+    {
+      "DetectedText": "6307",
+      "Confidence": 81,
+      "ItemPolygon": {
+        "X": 171,
+        "Y": 231,
+        "Width": 42,
+        "Height": 38
+      },
+      "Polygon": [
+        {
+          "X": 171,
+          "Y": 253
+        },
+        {
+          "X": 182,
+          "Y": 268
+        },
+        {
+          "X": 212,
+          "Y": 246
+        },
+        {
+          "X": 201,
+          "Y": 231
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":4}}"
+    },
+    {
+      "DetectedText": "O次坞镇",
+      "Confidence": 82,
+      "ItemPolygon": {
+        "X": 331,
+        "Y": 205,
+        "Width": 97,
+        "Height": 31
+      },
+      "Polygon": [
+        {
+          "X": 331,
+          "Y": 206
+        },
+        {
+          "X": 331,
+          "Y": 235
+        },
+        {
+          "X": 427,
+          "Y": 234
+        },
+        {
+          "X": 427,
+          "Y": 205
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":5}}"
+    },
+    {
+      "DetectedText": "坑坞",
+      "Confidence": 99,
+      "ItemPolygon": {
+        "X": 495,
+        "Y": 213,
+        "Width": 35,
+        "Height": 20
+      },
+      "Polygon": [
+        {
+          "X": 495,
+          "Y": 232
+        },
+        {
+          "X": 495,
+          "Y": 213
+        },
+        {
+          "X": 529,
+          "Y": 213
+        },
+        {
+          "X": 529,
+          "Y": 232
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":9}}"
+    },
+    {
+      "DetectedText": "常绿镇",
+      "Confidence": 99,
+      "ItemPolygon": {
+        "X": 166,
+        "Y": 269,
+        "Width": 81,
+        "Height": 31
+      },
+      "Polygon": [
+        {
+          "X": 166,
+          "Y": 296
+        },
+        {
+          "X": 167,
+          "Y": 269
+        },
+        {
+          "X": 246,
+          "Y": 272
+        },
+        {
+          "X": 245,
+          "Y": 299
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":6}}"
+    },
+    {
+      "DetectedText": "桥",
+      "Confidence": 81,
+      "ItemPolygon": {
+        "X": 798,
+        "Y": 302,
+        "Width": 21,
+        "Height": 20
+      },
+      "Polygon": [
+        {
+          "X": 798,
+          "Y": 302
+        },
+        {
+          "X": 798,
+          "Y": 321
+        },
+        {
+          "X": 818,
+          "Y": 321
+        },
+        {
+          "X": 818,
+          "Y": 302
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":12}}"
+    },
+    {
+      "DetectedText": "若头岗",
+      "Confidence": 84,
+      "ItemPolygon": {
+        "X": 1254,
+        "Y": 314,
+        "Width": 51,
+        "Height": 24
+      },
+      "Polygon": [
+        {
+          "X": 1254,
+          "Y": 318
+        },
+        {
+          "X": 1256,
+          "Y": 337
+        },
+        {
+          "X": 1304,
+          "Y": 332
+        },
+        {
+          "X": 1302,
+          "Y": 314
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":38}}"
+    },
+    {
+      "DetectedText": "5103",
+      "Confidence": 78,
+      "ItemPolygon": {
+        "X": 597,
+        "Y": 367,
+        "Width": 45,
+        "Height": 45
+      },
+      "Polygon": [
+        {
+          "X": 597,
+          "Y": 398
+        },
+        {
+          "X": 609,
+          "Y": 411
+        },
+        {
+          "X": 641,
+          "Y": 380
+        },
+        {
+          "X": 630,
+          "Y": 367
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":13}}"
+    },
+    {
+      "DetectedText": "O姚江镇一回山下湖镇",
+      "Confidence": 80,
+      "ItemPolygon": {
+        "X": 642,
+        "Y": 336,
+        "Width": 270,
+        "Height": 43
+      },
+      "Polygon": [
+        {
+          "X": 642,
+          "Y": 349
+        },
+        {
+          "X": 643,
+          "Y": 378
+        },
+        {
+          "X": 911,
+          "Y": 365
+        },
+        {
+          "X": 910,
+          "Y": 336
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":13}}"
+    },
+    {
+      "DetectedText": "回店街镇",
+      "Confidence": 77,
+      "ItemPolygon": {
+        "X": 236,
+        "Y": 415,
+        "Width": 125,
+        "Height": 30
+      },
+      "Polygon": [
+        {
+          "X": 236,
+          "Y": 444
+        },
+        {
+          "X": 236,
+          "Y": 415
+        },
+        {
+          "X": 360,
+          "Y": 415
+        },
+        {
+          "X": 360,
+          "Y": 444
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":8}}"
+    },
+    {
+      "DetectedText": "水",
+      "Confidence": 41,
+      "ItemPolygon": {
+        "X": 141,
+        "Y": 467,
+        "Width": 56,
+        "Height": 20
+      },
+      "Polygon": [
+        {
+          "X": 141,
+          "Y": 468
+        },
+        {
+          "X": 141,
+          "Y": 486
+        },
+        {
+          "X": 196,
+          "Y": 486
+        },
+        {
+          "X": 196,
+          "Y": 467
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":7}}"
+    },
+    {
+      "DetectedText": "枫桥镇",
+      "Confidence": 99,
+      "ItemPolygon": {
+        "X": 859,
+        "Y": 483,
+        "Width": 78,
+        "Height": 32
+      },
+      "Polygon": [
+        {
+          "X": 859,
+          "Y": 510
+        },
+        {
+          "X": 861,
+          "Y": 483
+        },
+        {
+          "X": 936,
+          "Y": 486
+        },
+        {
+          "X": 935,
+          "Y": 514
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":14}}"
+    },
+    {
+      "DetectedText": "稽东镇",
+      "Confidence": 92,
+      "ItemPolygon": {
+        "X": 1324,
+        "Y": 516,
+        "Width": 98,
+        "Height": 30
+      },
+      "Polygon": [
+        {
+          "X": 1324,
+          "Y": 545
+        },
+        {
+          "X": 1325,
+          "Y": 516
+        },
+        {
+          "X": 1421,
+          "Y": 516
+        },
+        {
+          "X": 1421,
+          "Y": 545
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":39}}"
+    },
+    {
+      "DetectedText": "森林",
+      "Confidence": 99,
+      "ItemPolygon": {
+        "X": 45,
+        "Y": 599,
+        "Width": 41,
+        "Height": 21
+      },
+      "Polygon": [
+        {
+          "X": 45,
+          "Y": 601
+        },
+        {
+          "X": 46,
+          "Y": 619
+        },
+        {
+          "X": 85,
+          "Y": 618
+        },
+        {
+          "X": 84,
+          "Y": 599
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":15}}"
+    },
+    {
+      "DetectedText": "国家",
+      "Confidence": 99,
+      "ItemPolygon": {
+        "X": 85,
+        "Y": 576,
+        "Width": 47,
+        "Height": 31
+      },
+      "Polygon": [
+        {
+          "X": 85,
+          "Y": 603
+        },
+        {
+          "X": 87,
+          "Y": 576
+        },
+        {
+          "X": 131,
+          "Y": 579
+        },
+        {
+          "X": 129,
+          "Y": 606
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":15}}"
+    },
+    {
+      "DetectedText": "头梅",
+      "Confidence": 99,
+      "ItemPolygon": {
+        "X": 316,
+        "Y": 569,
+        "Width": 37,
+        "Height": 27
+      },
+      "Polygon": [
+        {
+          "X": 316,
+          "Y": 576
+        },
+        {
+          "X": 320,
+          "Y": 595
+        },
+        {
+          "X": 352,
+          "Y": 588
+        },
+        {
+          "X": 348,
+          "Y": 569
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":17}}"
+    },
+    {
+      "DetectedText": "赵家镇",
+      "Confidence": 99,
+      "ItemPolygon": {
+        "X": 1009,
+        "Y": 546,
+        "Width": 75,
+        "Height": 31
+      },
+      "Polygon": [
+        {
+          "X": 1009,
+          "Y": 575
+        },
+        {
+          "X": 1009,
+          "Y": 546
+        },
+        {
+          "X": 1083,
+          "Y": 547
+        },
+        {
+          "X": 1083,
+          "Y": 576
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":31}}"
+    },
+    {
+      "DetectedText": "博士越大山",
+      "Confidence": 54,
+      "ItemPolygon": {
+        "X": 1116,
+        "Y": 564,
+        "Width": 105,
+        "Height": 36
+      },
+      "Polygon": [
+        {
+          "X": 1116,
+          "Y": 572
+        },
+        {
+          "X": 1119,
+          "Y": 599
+        },
+        {
+          "X": 1220,
+          "Y": 591
+        },
+        {
+          "X": 1218,
+          "Y": 564
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":32}}"
+    },
+    {
+      "DetectedText": "陶朱街道",
+      "Confidence": 99,
+      "ItemPolygon": {
+        "X": 418,
+        "Y": 588,
+        "Width": 99,
+        "Height": 32
+      },
+      "Polygon": [
+        {
+          "X": 418,
+          "Y": 589
+        },
+        {
+          "X": 418,
+          "Y": 619
+        },
+        {
+          "X": 516,
+          "Y": 619
+        },
+        {
+          "X": 515,
+          "Y": 588
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":18}}"
+    },
+    {
+      "DetectedText": "J盏",
+      "Confidence": 90,
+      "ItemPolygon": {
+        "X": 941,
+        "Y": 603,
+        "Width": 20,
+        "Height": 18
+      },
+      "Polygon": [
+        {
+          "X": 941,
+          "Y": 603
+        },
+        {
+          "X": 941,
+          "Y": 620
+        },
+        {
+          "X": 960,
+          "Y": 620
+        },
+        {
+          "X": 960,
+          "Y": 603
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":28}}"
+    },
+    {
+      "DetectedText": "诸暨香榧",
+      "Confidence": 95,
+      "ItemPolygon": {
+        "X": 1088,
+        "Y": 596,
+        "Width": 85,
+        "Height": 33
+      },
+      "Polygon": [
+        {
+          "X": 1088,
+          "Y": 626
+        },
+        {
+          "X": 1089,
+          "Y": 596
+        },
+        {
+          "X": 1172,
+          "Y": 599
+        },
+        {
+          "X": 1171,
+          "Y": 628
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":33}}"
+    },
+    {
+      "DetectedText": "O",
+      "Confidence": 57,
+      "ItemPolygon": {
+        "X": 455,
+        "Y": 621,
+        "Width": 21,
+        "Height": 20
+      },
+      "Polygon": [
+        {
+          "X": 455,
+          "Y": 621
+        },
+        {
+          "X": 455,
+          "Y": 640
+        },
+        {
+          "X": 475,
+          "Y": 640
+        },
+        {
+          "X": 475,
+          "Y": 621
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":19}}"
+    },
+    {
+      "DetectedText": "国家森林公园",
+      "Confidence": 99,
+      "ItemPolygon": {
+        "X": 1065,
+        "Y": 618,
+        "Width": 122,
+        "Height": 27
+      },
+      "Polygon": [
+        {
+          "X": 1065,
+          "Y": 644
+        },
+        {
+          "X": 1066,
+          "Y": 618
+        },
+        {
+          "X": 1186,
+          "Y": 618
+        },
+        {
+          "X": 1186,
+          "Y": 644
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":33}}"
+    },
+    {
+      "DetectedText": "铜",
+      "Confidence": 99,
+      "ItemPolygon": {
+        "X": 1446,
+        "Y": 622,
+        "Width": 21,
+        "Height": 20
+      },
+      "Polygon": [
+        {
+          "X": 1446,
+          "Y": 622
+        },
+        {
+          "X": 1446,
+          "Y": 641
+        },
+        {
+          "X": 1466,
+          "Y": 641
+        },
+        {
+          "X": 1466,
+          "Y": 622
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":40}}"
+    },
+    {
+      "DetectedText": "诸暨站",
+      "Confidence": 86,
+      "ItemPolygon": {
+        "X": 329,
+        "Y": 645,
+        "Width": 58,
+        "Height": 20
+      },
+      "Polygon": [
+        {
+          "X": 329,
+          "Y": 645
+        },
+        {
+          "X": 329,
+          "Y": 664
+        },
+        {
+          "X": 386,
+          "Y": 664
+        },
+        {
+          "X": 385,
+          "Y": 645
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":20}}"
+    },
+    {
+      "DetectedText": "暨阳街道院东",
+      "Confidence": 89,
+      "ItemPolygon": {
+        "X": 467,
+        "Y": 643,
+        "Width": 185,
+        "Height": 35
+      },
+      "Polygon": [
+        {
+          "X": 467,
+          "Y": 649
+        },
+        {
+          "X": 468,
+          "Y": 677
+        },
+        {
+          "X": 651,
+          "Y": 671
+        },
+        {
+          "X": 650,
+          "Y": 643
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":21}}"
+    },
+    {
+      "DetectedText": "五泄风景区",
+      "Confidence": 97,
+      "ItemPolygon": {
+        "X": 87,
+        "Y": 675,
+        "Width": 99,
+        "Height": 20
+      },
+      "Polygon": [
+        {
+          "X": 87,
+          "Y": 694
+        },
+        {
+          "X": 87,
+          "Y": 675
+        },
+        {
+          "X": 185,
+          "Y": 675
+        },
+        {
+          "X": 185,
+          "Y": 694
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":16}}"
+    },
+    {
+      "DetectedText": "610街道",
+      "Confidence": 65,
+      "ItemPolygon": {
+        "X": 507,
+        "Y": 665,
+        "Width": 145,
+        "Height": 38
+      },
+      "Polygon": [
+        {
+          "X": 507,
+          "Y": 674
+        },
+        {
+          "X": 509,
+          "Y": 702
+        },
+        {
+          "X": 651,
+          "Y": 693
+        },
+        {
+          "X": 649,
+          "Y": 665
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":22}}"
+    },
+    {
+      "DetectedText": "强大诸暨市",
+      "Confidence": 70,
+      "ItemPolygon": {
+        "X": 502,
+        "Y": 691,
+        "Width": 147,
+        "Height": 39
+      },
+      "Polygon": [
+        {
+          "X": 502,
+          "Y": 721
+        },
+        {
+          "X": 504,
+          "Y": 691
+        },
+        {
+          "X": 648,
+          "Y": 698
+        },
+        {
+          "X": 646,
+          "Y": 729
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":22}}"
+    },
+    {
+      "DetectedText": "水宁",
+      "Confidence": 55,
+      "ItemPolygon": {
+        "X": 871,
+        "Y": 689,
+        "Width": 19,
+        "Height": 18
+      },
+      "Polygon": [
+        {
+          "X": 871,
+          "Y": 689
+        },
+        {
+          "X": 871,
+          "Y": 706
+        },
+        {
+          "X": 889,
+          "Y": 706
+        },
+        {
+          "X": 889,
+          "Y": 689
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":27}}"
+    },
+    {
+      "DetectedText": "骆家尖",
+      "Confidence": 99,
+      "ItemPolygon": {
+        "X": 1154,
+        "Y": 701,
+        "Width": 51,
+        "Height": 23
+      },
+      "Polygon": [
+        {
+          "X": 1154,
+          "Y": 705
+        },
+        {
+          "X": 1156,
+          "Y": 723
+        },
+        {
+          "X": 1204,
+          "Y": 719
+        },
+        {
+          "X": 1202,
+          "Y": 701
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":34}}"
+    },
+    {
+      "DetectedText": "省五淮镇",
+      "Confidence": 51,
+      "ItemPolygon": {
+        "X": 51,
+        "Y": 698,
+        "Width": 153,
+        "Height": 57
+      },
+      "Polygon": [
+        {
+          "X": 51,
+          "Y": 739
+        },
+        {
+          "X": 55,
+          "Y": 698
+        },
+        {
+          "X": 203,
+          "Y": 714
+        },
+        {
+          "X": 199,
+          "Y": 754
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":16}}"
+    },
+    {
+      "DetectedText": "大唐街道回",
+      "Confidence": 84,
+      "ItemPolygon": {
+        "X": 266,
+        "Y": 723,
+        "Width": 103,
+        "Height": 30
+      },
+      "Polygon": [
+        {
+          "X": 266,
+          "Y": 751
+        },
+        {
+          "X": 266,
+          "Y": 723
+        },
+        {
+          "X": 368,
+          "Y": 724
+        },
+        {
+          "X": 368,
+          "Y": 752
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":23}}"
+    },
+    {
+      "DetectedText": "西施故里!",
+      "Confidence": 90,
+      "ItemPolygon": {
+        "X": 498,
+        "Y": 736,
+        "Width": 78,
+        "Height": 20
+      },
+      "Polygon": [
+        {
+          "X": 498,
+          "Y": 755
+        },
+        {
+          "X": 498,
+          "Y": 736
+        },
+        {
+          "X": 575,
+          "Y": 736
+        },
+        {
+          "X": 575,
+          "Y": 755
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":24}}"
+    },
+    {
+      "DetectedText": "东和乡",
+      "Confidence": 98,
+      "ItemPolygon": {
+        "X": 989,
+        "Y": 735,
+        "Width": 77,
+        "Height": 32
+      },
+      "Polygon": [
+        {
+          "X": 989,
+          "Y": 738
+        },
+        {
+          "X": 991,
+          "Y": 766
+        },
+        {
+          "X": 1065,
+          "Y": 762
+        },
+        {
+          "X": 1064,
+          "Y": 735
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":35}}"
+    },
+    {
+      "DetectedText": "笔架山",
+      "Confidence": 99,
+      "ItemPolygon": {
+        "X": 3,
+        "Y": 774,
+        "Width": 35,
+        "Height": 23
+      },
+      "Polygon": [
+        {
+          "X": 3,
+          "Y": 774
+        },
+        {
+          "X": 3,
+          "Y": 796
+        },
+        {
+          "X": 37,
+          "Y": 796
+        },
+        {
+          "X": 37,
+          "Y": 774
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":16}}"
+    },
+    {
+      "DetectedText": "南山暨南街道(",
+      "Confidence": 98,
+      "ItemPolygon": {
+        "X": 398,
+        "Y": 763,
+        "Width": 146,
+        "Height": 41
+      },
+      "Polygon": [
+        {
+          "X": 398,
+          "Y": 790
+        },
+        {
+          "X": 400,
+          "Y": 763
+        },
+        {
+          "X": 543,
+          "Y": 775
+        },
+        {
+          "X": 541,
+          "Y": 803
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":25}}"
+    },
+    {
+      "DetectedText": "包头",
+      "Confidence": 99,
+      "ItemPolygon": {
+        "X": 738,
+        "Y": 802,
+        "Width": 22,
+        "Height": 18
+      },
+      "Polygon": [
+        {
+          "X": 738,
+          "Y": 802
+        },
+        {
+          "X": 738,
+          "Y": 819
+        },
+        {
+          "X": 759,
+          "Y": 819
+        },
+        {
+          "X": 759,
+          "Y": 802
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":26}}"
+    },
+    {
+      "DetectedText": "嵊",
+      "Confidence": 67,
+      "ItemPolygon": {
+        "X": 1347,
+        "Y": 888,
+        "Width": 45,
+        "Height": 35
+      },
+      "Polygon": [
+        {
+          "X": 1347,
+          "Y": 888
+        },
+        {
+          "X": 1347,
+          "Y": 922
+        },
+        {
+          "X": 1391,
+          "Y": 922
+        },
+        {
+          "X": 1391,
+          "Y": 888
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":62}}"
+    },
+    {
+      "DetectedText": "驼背岭",
+      "Confidence": 90,
+      "ItemPolygon": {
+        "X": 233,
+        "Y": 915,
+        "Width": 40,
+        "Height": 27
+      },
+      "Polygon": [
+        {
+          "X": 233,
+          "Y": 940
+        },
+        {
+          "X": 234,
+          "Y": 915
+        },
+        {
+          "X": 272,
+          "Y": 916
+        },
+        {
+          "X": 272,
+          "Y": 941
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":43}}"
+    },
+    {
+      "DetectedText": "溧浦镇",
+      "Confidence": 72,
+      "ItemPolygon": {
+        "X": 716,
+        "Y": 930,
+        "Width": 107,
+        "Height": 28
+      },
+      "Polygon": [
+        {
+          "X": 716,
+          "Y": 956
+        },
+        {
+          "X": 716,
+          "Y": 930
+        },
+        {
+          "X": 822,
+          "Y": 931
+        },
+        {
+          "X": 822,
+          "Y": 957
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":57}}"
+    },
+    {
+      "DetectedText": "羊上尖",
+      "Confidence": 84,
+      "ItemPolygon": {
+        "X": 1069,
+        "Y": 929,
+        "Width": 51,
+        "Height": 23
+      },
+      "Polygon": [
+        {
+          "X": 1069,
+          "Y": 930
+        },
+        {
+          "X": 1070,
+          "Y": 951
+        },
+        {
+          "X": 1119,
+          "Y": 949
+        },
+        {
+          "X": 1119,
+          "Y": 929
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":61}}"
+    },
+    {
+      "DetectedText": "石柱山",
+      "Confidence": 97,
+      "ItemPolygon": {
+        "X": 7,
+        "Y": 956,
+        "Width": 53,
+        "Height": 33
+      },
+      "Polygon": [
+        {
+          "X": 7,
+          "Y": 964
+        },
+        {
+          "X": 11,
+          "Y": 988
+        },
+        {
+          "X": 59,
+          "Y": 981
+        },
+        {
+          "X": 56,
+          "Y": 956
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":41}}"
+    },
+    {
+      "DetectedText": "⑥牌头镇",
+      "Confidence": 88,
+      "ItemPolygon": {
+        "X": 318,
+        "Y": 984,
+        "Width": 95,
+        "Height": 29
+      },
+      "Polygon": [
+        {
+          "X": 318,
+          "Y": 984
+        },
+        {
+          "X": 318,
+          "Y": 1012
+        },
+        {
+          "X": 412,
+          "Y": 1012
+        },
+        {
+          "X": 412,
+          "Y": 984
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":47}}"
+    },
+    {
+      "DetectedText": "外鹰炮",
+      "Confidence": 98,
+      "ItemPolygon": {
+        "X": 1421,
+        "Y": 971,
+        "Width": 49,
+        "Height": 20
+      },
+      "Polygon": [
+        {
+          "X": 1421,
+          "Y": 990
+        },
+        {
+          "X": 1421,
+          "Y": 971
+        },
+        {
+          "X": 1469,
+          "Y": 971
+        },
+        {
+          "X": 1469,
+          "Y": 990
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":63}}"
+    },
+    {
+      "DetectedText": "同山镇",
+      "Confidence": 93,
+      "ItemPolygon": {
+        "X": 111,
+        "Y": 1034,
+        "Width": 102,
+        "Height": 30
+      },
+      "Polygon": [
+        {
+          "X": 111,
+          "Y": 1034
+        },
+        {
+          "X": 111,
+          "Y": 1063
+        },
+        {
+          "X": 212,
+          "Y": 1063
+        },
+        {
+          "X": 212,
+          "Y": 1034
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":44}}"
+    },
+    {
+      "DetectedText": "东首湖镇",
+      "Confidence": 89,
+      "ItemPolygon": {
+        "X": 835,
+        "Y": 1012,
+        "Width": 102,
+        "Height": 31
+      },
+      "Polygon": [
+        {
+          "X": 835,
+          "Y": 1015
+        },
+        {
+          "X": 835,
+          "Y": 1042
+        },
+        {
+          "X": 936,
+          "Y": 1040
+        },
+        {
+          "X": 935,
+          "Y": 1012
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":58}}"
+    },
+    {
+      "DetectedText": "庆南头",
+      "Confidence": 66,
+      "ItemPolygon": {
+        "X": 28,
+        "Y": 1066,
+        "Width": 38,
+        "Height": 20
+      },
+      "Polygon": [
+        {
+          "X": 28,
+          "Y": 1068
+        },
+        {
+          "X": 28,
+          "Y": 1085
+        },
+        {
+          "X": 65,
+          "Y": 1084
+        },
+        {
+          "X": 65,
+          "Y": 1066
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":42}}"
+    },
+    {
+      "DetectedText": "安",
+      "Confidence": 97,
+      "ItemPolygon": {
+        "X": 231,
+        "Y": 1088,
+        "Width": 29,
+        "Height": 29
+      },
+      "Polygon": [
+        {
+          "X": 231,
+          "Y": 1088
+        },
+        {
+          "X": 231,
+          "Y": 1116
+        },
+        {
+          "X": 259,
+          "Y": 1116
+        },
+        {
+          "X": 259,
+          "Y": 1088
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":46}}"
+    },
+    {
+      "DetectedText": "璜山镇⑥",
+      "Confidence": 82,
+      "ItemPolygon": {
+        "X": 663,
+        "Y": 1063,
+        "Width": 97,
+        "Height": 29
+      },
+      "Polygon": [
+        {
+          "X": 663,
+          "Y": 1063
+        },
+        {
+          "X": 663,
+          "Y": 1091
+        },
+        {
+          "X": 759,
+          "Y": 1090
+        },
+        {
+          "X": 759,
+          "Y": 1063
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":59}}"
+    },
+    {
+      "DetectedText": "陈",
+      "Confidence": 46,
+      "ItemPolygon": {
+        "X": 928,
+        "Y": 1048,
+        "Width": 86,
+        "Height": 22
+      },
+      "Polygon": [
+        {
+          "X": 928,
+          "Y": 1069
+        },
+        {
+          "X": 928,
+          "Y": 1048
+        },
+        {
+          "X": 1013,
+          "Y": 1049
+        },
+        {
+          "X": 1013,
+          "Y": 1069
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":60}}"
+    },
+    {
+      "DetectedText": "水",
+      "Confidence": 84,
+      "ItemPolygon": {
+        "X": 171,
+        "Y": 1115,
+        "Width": 20,
+        "Height": 19
+      },
+      "Polygon": [
+        {
+          "X": 171,
+          "Y": 1115
+        },
+        {
+          "X": 171,
+          "Y": 1133
+        },
+        {
+          "X": 190,
+          "Y": 1133
+        },
+        {
+          "X": 190,
+          "Y": 1115
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":45}}"
+    },
+    {
+      "DetectedText": "嵊L",
+      "Confidence": 87,
+      "ItemPolygon": {
+        "X": 426,
+        "Y": 1117,
+        "Width": 21,
+        "Height": 19
+      },
+      "Polygon": [
+        {
+          "X": 426,
+          "Y": 1117
+        },
+        {
+          "X": 426,
+          "Y": 1135
+        },
+        {
+          "X": 446,
+          "Y": 1135
+        },
+        {
+          "X": 446,
+          "Y": 1117
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":48}}"
+    },
+    {
+      "DetectedText": "自玉尖",
+      "Confidence": 91,
+      "ItemPolygon": {
+        "X": 1185,
+        "Y": 1165,
+        "Width": 55,
+        "Height": 27
+      },
+      "Polygon": [
+        {
+          "X": 1185,
+          "Y": 1190
+        },
+        {
+          "X": 1186,
+          "Y": 1165
+        },
+        {
+          "X": 1239,
+          "Y": 1166
+        },
+        {
+          "X": 1238,
+          "Y": 1191
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":65}}"
+    },
+    {
+      "DetectedText": "白马镇",
+      "Confidence": 99,
+      "ItemPolygon": {
+        "X": 56,
+        "Y": 1218,
+        "Width": 70,
+        "Height": 35
+      },
+      "Polygon": [
+        {
+          "X": 56,
+          "Y": 1245
+        },
+        {
+          "X": 59,
+          "Y": 1218
+        },
+        {
+          "X": 125,
+          "Y": 1224
+        },
+        {
+          "X": 122,
+          "Y": 1252
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":50}}"
+    },
+    {
+      "DetectedText": "浦",
+      "Confidence": 74,
+      "ItemPolygon": {
+        "X": 165,
+        "Y": 1241,
+        "Width": 20,
+        "Height": 19
+      },
+      "Polygon": [
+        {
+          "X": 165,
+          "Y": 1241
+        },
+        {
+          "X": 165,
+          "Y": 1259
+        },
+        {
+          "X": 184,
+          "Y": 1259
+        },
+        {
+          "X": 184,
+          "Y": 1241
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":51}}"
+    },
+    {
+      "DetectedText": "镇",
+      "Confidence": 99,
+      "ItemPolygon": {
+        "X": 5,
+        "Y": 1272,
+        "Width": 29,
+        "Height": 27
+      },
+      "Polygon": [
+        {
+          "X": 5,
+          "Y": 1272
+        },
+        {
+          "X": 5,
+          "Y": 1298
+        },
+        {
+          "X": 33,
+          "Y": 1298
+        },
+        {
+          "X": 33,
+          "Y": 1272
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":49}}"
+    },
+    {
+      "DetectedText": "郑家坞镇",
+      "Confidence": 97,
+      "ItemPolygon": {
+        "X": 183,
+        "Y": 1265,
+        "Width": 100,
+        "Height": 32
+      },
+      "Polygon": [
+        {
+          "X": 183,
+          "Y": 1269
+        },
+        {
+          "X": 184,
+          "Y": 1296
+        },
+        {
+          "X": 282,
+          "Y": 1293
+        },
+        {
+          "X": 281,
+          "Y": 1265
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":52}}"
+    },
+    {
+      "DetectedText": "陈宅镇",
+      "Confidence": 92,
+      "ItemPolygon": {
+        "X": 684,
+        "Y": 1245,
+        "Width": 75,
+        "Height": 31
+      },
+      "Polygon": [
+        {
+          "X": 684,
+          "Y": 1274
+        },
+        {
+          "X": 684,
+          "Y": 1245
+        },
+        {
+          "X": 758,
+          "Y": 1246
+        },
+        {
+          "X": 758,
+          "Y": 1275
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":64}}"
+    },
+    {
+      "DetectedText": "炮岗",
+      "Confidence": 99,
+      "ItemPolygon": {
+        "X": 947,
+        "Y": 1229,
+        "Width": 30,
+        "Height": 26
+      },
+      "Polygon": [
+        {
+          "X": 947,
+          "Y": 1229
+        },
+        {
+          "X": 947,
+          "Y": 1254
+        },
+        {
+          "X": 976,
+          "Y": 1254
+        },
+        {
+          "X": 976,
+          "Y": 1229
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":66}}"
+    },
+    {
+      "DetectedText": "西郎",
+      "Confidence": 60,
+      "ItemPolygon": {
+        "X": 1219,
+        "Y": 1228,
+        "Width": 39,
+        "Height": 19
+      },
+      "Polygon": [
+        {
+          "X": 1219,
+          "Y": 1244
+        },
+        {
+          "X": 1220,
+          "Y": 1228
+        },
+        {
+          "X": 1257,
+          "Y": 1230
+        },
+        {
+          "X": 1256,
+          "Y": 1246
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":69}}"
+    },
+    {
+      "DetectedText": "风景",
+      "Confidence": 98,
+      "ItemPolygon": {
+        "X": 989,
+        "Y": 1273,
+        "Width": 31,
+        "Height": 26
+      },
+      "Polygon": [
+        {
+          "X": 989,
+          "Y": 1273
+        },
+        {
+          "X": 989,
+          "Y": 1298
+        },
+        {
+          "X": 1019,
+          "Y": 1298
+        },
+        {
+          "X": 1019,
+          "Y": 1273
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":67}}"
+    },
+    {
+      "DetectedText": "底尖",
+      "Confidence": 99,
+      "ItemPolygon": {
+        "X": 1118,
+        "Y": 1279,
+        "Width": 33,
+        "Height": 27
+      },
+      "Polygon": [
+        {
+          "X": 1118,
+          "Y": 1279
+        },
+        {
+          "X": 1118,
+          "Y": 1305
+        },
+        {
+          "X": 1150,
+          "Y": 1305
+        },
+        {
+          "X": 1150,
+          "Y": 1279
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":70}}"
+    },
+    {
+      "DetectedText": "椰坑水库",
+      "Confidence": 86,
+      "ItemPolygon": {
+        "X": 385,
+        "Y": 1349,
+        "Width": 61,
+        "Height": 20
+      },
+      "Polygon": [
+        {
+          "X": 385,
+          "Y": 1366
+        },
+        {
+          "X": 385,
+          "Y": 1349
+        },
+        {
+          "X": 445,
+          "Y": 1350
+        },
+        {
+          "X": 444,
+          "Y": 1368
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":55}}"
+    },
+    {
+      "DetectedText": "东白山",
+      "Confidence": 99,
+      "ItemPolygon": {
+        "X": 987,
+        "Y": 1337,
+        "Width": 45,
+        "Height": 20
+      },
+      "Polygon": [
+        {
+          "X": 987,
+          "Y": 1354
+        },
+        {
+          "X": 988,
+          "Y": 1337
+        },
+        {
+          "X": 1031,
+          "Y": 1339
+        },
+        {
+          "X": 1030,
+          "Y": 1356
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":68}}"
+    },
+    {
+      "DetectedText": "姑坪",
+      "Confidence": 75,
+      "ItemPolygon": {
+        "X": 1159,
+        "Y": 1320,
+        "Width": 38,
+        "Height": 29
+      },
+      "Polygon": [
+        {
+          "X": 1159,
+          "Y": 1321
+        },
+        {
+          "X": 1160,
+          "Y": 1348
+        },
+        {
+          "X": 1196,
+          "Y": 1346
+        },
+        {
+          "X": 1195,
+          "Y": 1320
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":71}}"
+    },
+    {
+      "DetectedText": "长乐镇",
+      "Confidence": 99,
+      "ItemPolygon": {
+        "X": 1374,
+        "Y": 1330,
+        "Width": 77,
+        "Height": 32
+      },
+      "Polygon": [
+        {
+          "X": 1374,
+          "Y": 1359
+        },
+        {
+          "X": 1375,
+          "Y": 1330
+        },
+        {
+          "X": 1450,
+          "Y": 1332
+        },
+        {
+          "X": 1450,
+          "Y": 1361
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":73}}"
+    },
+    {
+      "DetectedText": "水",
+      "Confidence": 48,
+      "ItemPolygon": {
+        "X": 1213,
+        "Y": 1352,
+        "Width": 62,
+        "Height": 19
+      },
+      "Polygon": [
+        {
+          "X": 1213,
+          "Y": 1370
+        },
+        {
+          "X": 1214,
+          "Y": 1352
+        },
+        {
+          "X": 1274,
+          "Y": 1353
+        },
+        {
+          "X": 1274,
+          "Y": 1370
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":72}}"
+    },
+    {
+      "DetectedText": "回大陈镇",
+      "Confidence": 85,
+      "ItemPolygon": {
+        "X": 254,
+        "Y": 1379,
+        "Width": 100,
+        "Height": 28
+      },
+      "Polygon": [
+        {
+          "X": 254,
+          "Y": 1405
+        },
+        {
+          "X": 254,
+          "Y": 1379
+        },
+        {
+          "X": 353,
+          "Y": 1380
+        },
+        {
+          "X": 353,
+          "Y": 1406
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":53}}"
+    },
+    {
+      "DetectedText": "加巧溪水库",
+      "Confidence": 73,
+      "ItemPolygon": {
+        "X": 392,
+        "Y": 1471,
+        "Width": 78,
+        "Height": 19
+      },
+      "Polygon": [
+        {
+          "X": 392,
+          "Y": 1472
+        },
+        {
+          "X": 393,
+          "Y": 1489
+        },
+        {
+          "X": 469,
+          "Y": 1489
+        },
+        {
+          "X": 469,
+          "Y": 1471
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":56}}"
+    },
+    {
+      "DetectedText": "东方红水库",
+      "Confidence": 96,
+      "ItemPolygon": {
+        "X": 1035,
+        "Y": 1441,
+        "Width": 76,
+        "Height": 35
+      },
+      "Polygon": [
+        {
+          "X": 1035,
+          "Y": 1458
+        },
+        {
+          "X": 1040,
+          "Y": 1475
+        },
+        {
+          "X": 1110,
+          "Y": 1458
+        },
+        {
+          "X": 1106,
+          "Y": 1441
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":74}}"
+    },
+    {
+      "DetectedText": "苏溪镇",
+      "Confidence": 99,
+      "ItemPolygon": {
+        "X": 291,
+        "Y": 1495,
+        "Width": 70,
+        "Height": 25
+      },
+      "Polygon": [
+        {
+          "X": 291,
+          "Y": 1496
+        },
+        {
+          "X": 291,
+          "Y": 1519
+        },
+        {
+          "X": 360,
+          "Y": 1519
+        },
+        {
+          "X": 360,
+          "Y": 1495
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":54}}"
+    },
+    {
+      "DetectedText": "南山风景区",
+      "Confidence": 99,
+      "ItemPolygon": {
+        "X": 1242,
+        "Y": 1485,
+        "Width": 100,
+        "Height": 28
+      },
+      "Polygon": [
+        {
+          "X": 1242,
+          "Y": 1486
+        },
+        {
+          "X": 1243,
+          "Y": 1512
+        },
+        {
+          "X": 1341,
+          "Y": 1511
+        },
+        {
+          "X": 1341,
+          "Y": 1485
+        }
+      ],
+      "AdvancedInfo": "{\"Parag\":{\"ParagNo\":75}}"
+    }
+  ],
+  "Angel": 0,
+  "RequestId": "07b35bc2-d3ec-4871-a86a-2d3d29bb8f62"
+}

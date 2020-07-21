@@ -1,0 +1,537 @@
+{
+	"log_id": "4743172527541329774",
+	"words_result_num": 59,
+	"words_result": [
+		{
+			"location": {
+				"width": 87,
+				"top": 21,
+				"left": 1016,
+				"height": 43
+			},
+			"words": "金龙山"
+		},
+		{
+			"location": {
+				"width": 22,
+				"top": 28,
+				"left": 1209,
+				"height": 29
+			},
+			"words": "笔"
+		},
+		{
+			"location": {
+				"width": 24,
+				"top": 34,
+				"left": 1308,
+				"height": 25
+			},
+			"words": "娥"
+		},
+		{
+			"location": {
+				"width": 364,
+				"top": 109,
+				"left": 0,
+				"height": 77
+			},
+			"words": "⊙姚江镇山下湖镇"
+		},
+		{
+			"location": {
+				"width": 643,
+				"top": 59,
+				"left": 572,
+				"height": 96
+			},
+			"words": "大岩头岗栗子岗汤浦镇⊙"
+		},
+		{
+			"location": {
+				"width": 344,
+				"top": 105,
+				"left": 1022,
+				"height": 42
+			},
+			"words": "大岗山"
+		},
+		{
+			"location": {
+				"width": 69,
+				"top": 174,
+				"left": 544,
+				"height": 36
+			},
+			"words": "山牛背"
+		},
+		{
+			"location": {
+				"width": 92,
+				"top": 195,
+				"left": 788,
+				"height": 34
+			},
+			"words": "龙住山"
+		},
+		{
+			"location": {
+				"width": 130,
+				"top": 186,
+				"left": 1196,
+				"height": 44
+			},
+			"words": "凤尖山"
+		},
+		{
+			"location": {
+				"width": 83,
+				"top": 251,
+				"left": 824,
+				"height": 50
+			},
+			"words": "区"
+		},
+		{
+			"location": {
+				"width": 206,
+				"top": 234,
+				"left": 956,
+				"height": 70
+			},
+			"words": "红荒山"
+		},
+		{
+			"location": {
+				"width": 98,
+				"top": 289,
+				"left": 217,
+				"height": 30
+			},
+			"words": "枫桥镇"
+		},
+		{
+			"location": {
+				"width": 102,
+				"top": 289,
+				"left": 906,
+				"height": 37
+			},
+			"words": "王坛镇"
+		},
+		{
+			"location": {
+				"width": 174,
+				"top": 337,
+				"left": 270,
+				"height": 49
+			},
+			"words": "赵家镇"
+		},
+		{
+			"location": {
+				"width": 197,
+				"top": 315,
+				"left": 673,
+				"height": 42
+			},
+			"words": "稽东镇"
+		},
+		{
+			"location": {
+				"width": 211,
+				"top": 368,
+				"left": 392,
+				"height": 39
+			},
+			"words": "越大山"
+		},
+		{
+			"location": {
+				"width": 281,
+				"top": 401,
+				"left": 266,
+				"height": 30
+			},
+			"words": "天盏诸暨香榧"
+		},
+		{
+			"location": {
+				"width": 196,
+				"top": 419,
+				"left": 395,
+				"height": 32
+			},
+			"words": "国家森林公园"
+		},
+		{
+			"location": {
+				"width": 287,
+				"top": 385,
+				"left": 635,
+				"height": 96
+			},
+			"words": "山"
+		},
+		{
+			"location": {
+				"width": 64,
+				"top": 407,
+				"left": 1157,
+				"height": 29
+			},
+			"words": "前岩水"
+		},
+		{
+			"location": {
+				"width": 553,
+				"top": 488,
+				"left": 419,
+				"height": 70
+			},
+			"words": "骆家尖来镇"
+		},
+		{
+			"location": {
+				"width": 121,
+				"top": 540,
+				"left": 321,
+				"height": 34
+			},
+			"words": "东和乡"
+		},
+		{
+			"location": {
+				"width": 285,
+				"top": 546,
+				"left": 829,
+				"height": 40
+			},
+			"words": "大大金岗"
+		},
+		{
+			"location": {
+				"width": 52,
+				"top": 604,
+				"left": 64,
+				"height": 27
+			},
+			"words": "九炮头"
+		},
+		{
+			"location": {
+				"width": 178,
+				"top": 588,
+				"left": 1077,
+				"height": 41
+			},
+			"words": "仙岩镇"
+		},
+		{
+			"location": {
+				"width": 177,
+				"top": 676,
+				"left": 696,
+				"height": 60
+			},
+			"words": "嵊"
+		},
+		{
+			"location": {
+				"width": 76,
+				"top": 684,
+				"left": 958,
+				"height": 28
+			},
+			"words": "张村水"
+		},
+		{
+			"location": {
+				"width": 110,
+				"top": 733,
+				"left": 68,
+				"height": 33
+			},
+			"words": "浦镇"
+		},
+		{
+			"location": {
+				"width": 178,
+				"top": 729,
+				"left": 407,
+				"height": 40
+			},
+			"words": "羊上尖稽"
+		},
+		{
+			"location": {
+				"width": 54,
+				"top": 762,
+				"left": 119,
+				"height": 29
+			},
+			"words": "蔡"
+		},
+		{
+			"location": {
+				"width": 116,
+				"top": 749,
+				"left": 694,
+				"height": 39
+			},
+			"words": "水"
+		},
+		{
+			"location": {
+				"width": 305,
+				"top": 771,
+				"left": 771,
+				"height": 43
+			},
+			"words": "外鹰炮头崇仁镇"
+		},
+		{
+			"location": {
+				"width": 200,
+				"top": 811,
+				"left": 136,
+				"height": 43
+			},
+			"words": "东自湖镇"
+		},
+		{
+			"location": {
+				"width": 91,
+				"top": 809,
+				"left": 852,
+				"height": 28
+			},
+			"words": "红领山水"
+		},
+		{
+			"location": {
+				"width": 96,
+				"top": 800,
+				"left": 1272,
+				"height": 30
+			},
+			"words": "剡湖街"
+		},
+		{
+			"location": {
+				"width": 198,
+				"top": 829,
+				"left": 1126,
+				"height": 34
+			},
+			"words": "鹿山街道"
+		},
+		{
+			"location": {
+				"width": 205,
+				"top": 866,
+				"left": 0,
+				"height": 43
+			},
+			"words": "山镇⊙"
+		},
+		{
+			"location": {
+				"width": 309,
+				"top": 844,
+				"left": 208,
+				"height": 45
+			},
+			"words": "陈水"
+		},
+		{
+			"location": {
+				"width": 188,
+				"top": 859,
+				"left": 1139,
+				"height": 39
+			},
+			"words": "长嵊州市"
+		},
+		{
+			"location": {
+				"width": 99,
+				"top": 922,
+				"left": 821,
+				"height": 36
+			},
+			"words": "石璜镇"
+		},
+		{
+			"location": {
+				"width": 197,
+				"top": 898,
+				"left": 1169,
+				"height": 63
+			},
+			"words": "澄州"
+		},
+		{
+			"location": {
+				"width": 71,
+				"top": 968,
+				"left": 527,
+				"height": 32
+			},
+			"words": "玉尖"
+		},
+		{
+			"location": {
+				"width": 72,
+				"top": 955,
+				"left": 694,
+				"height": 30
+			},
+			"words": "源水"
+		},
+		{
+			"location": {
+				"width": 215,
+				"top": 961,
+				"left": 989,
+				"height": 57
+			},
+			"words": "甘霖镇"
+		},
+		{
+			"location": {
+				"width": 203,
+				"top": 990,
+				"left": 877,
+				"height": 57
+			},
+			"words": "9"
+		},
+		{
+			"location": {
+				"width": 207,
+				"top": 1032,
+				"left": 235,
+				"height": 39
+			},
+			"words": "十炮岗"
+		},
+		{
+			"location": {
+				"width": 78,
+				"top": 1023,
+				"left": 550,
+				"height": 34
+			},
+			"words": "西山"
+		},
+		{
+			"location": {
+				"width": 164,
+				"top": 1022,
+				"left": 1204,
+				"height": 37
+			},
+			"words": "七星街道"
+		},
+		{
+			"location": {
+				"width": 101,
+				"top": 1048,
+				"left": 40,
+				"height": 34
+			},
+			"words": "陈宅镇⊙"
+		},
+		{
+			"location": {
+				"width": 251,
+				"top": 1074,
+				"left": 257,
+				"height": 41
+			},
+			"words": "东白山风景蒸底尖"
+		},
+		{
+			"location": {
+				"width": 53,
+				"top": 1139,
+				"left": 341,
+				"height": 27
+			},
+			"words": "东白山"
+		},
+		{
+			"location": {
+				"width": 130,
+				"top": 1121,
+				"left": 482,
+				"height": 36
+			},
+			"words": "狮姑坪"
+		},
+		{
+			"location": {
+				"width": 113,
+				"top": 1150,
+				"left": 550,
+				"height": 33
+			},
+			"words": "水"
+		},
+		{
+			"location": {
+				"width": 77,
+				"top": 1132,
+				"left": 729,
+				"height": 36
+			},
+			"words": "长乐镇"
+		},
+		{
+			"location": {
+				"width": 64,
+				"top": 1135,
+				"left": 980,
+				"height": 30
+			},
+			"words": "天花山"
+		},
+		{
+			"location": {
+				"width": 101,
+				"top": 1181,
+				"left": 1149,
+				"height": 30
+			},
+			"words": "澄潭街道"
+		},
+		{
+			"location": {
+				"width": 21,
+				"top": 1210,
+				"left": 1192,
+				"height": 24
+			},
+			"words": "◎"
+		},
+		{
+			"location": {
+				"width": 77,
+				"top": 1249,
+				"left": 391,
+				"height": 36
+			},
+			"words": "东方红水库"
+		},
+		{
+			"location": {
+				"width": 135,
+				"top": 1220,
+				"left": 1233,
+				"height": 53
+			},
+			"words": "东"
+		}
+	]
+}
